@@ -7,7 +7,6 @@ NetAudit-Suite es un conjunto de herramientas diseñadas para **descubrir activo
 Incluye versiones optimizadas para hardware de alto rendimiento (PC) y dispositivos IoT de bajo consumo (Raspberry Pi Zero), con integración directa a **Telegram** para reportes en tiempo real.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Bash](https://img.shields.io/badge/Bash-Legacy-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20RPi-orange)
 
 ## 🚀 Módulos Incluidos
