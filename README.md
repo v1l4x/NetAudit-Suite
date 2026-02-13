@@ -16,7 +16,6 @@ Incluye versiones optimizadas para hardware de alto rendimiento (PC) y dispositi
 | :--- | :--- | :--- | :--- |
 | **Core Pro** | `core/audit_pro.py` | Escaneo multi-hilo agresivo. | PC / Laptop / RPi 4 |
 | **Lite IoT** | `lite/audit_pi.py` | Optimizado para bajo consumo y selección de interfaz. | Raspberry Pi Zero / Zero 2W |
-| **Legacy** | `legacy/audit_basic.sh` | Script ligero en Bash sin dependencias pesadas. | Sistemas antiguos / Mínimos |
 
 ## 📦 Instalación
 
