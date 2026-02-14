@@ -57,8 +57,8 @@ sudo python3 lite/audit_pi.py
       <br>
       <sub>Ejecución en Terminal</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="Imagenes/Telegram.jpg" width="100%" alt="Telegram">
+    <td align="center" width="25%">
+      <img src="Imagenes/Telegram.png" width="100%" alt="Telegram">
       <br>
       <sub>Reporte en Telegram</sub>
     </td>
