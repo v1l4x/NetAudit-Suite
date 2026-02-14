@@ -48,4 +48,29 @@ sudo python3 lite/audit_pi.py
 ```
 ---
 
+## 📸 Galería del Proyecto
+
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+      <img src="Imagenes/Resultado.jpg" width="100%" alt="Terminal">
+      <br>
+      <sub>Ejecución en Terminal</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="Imagenes/Telegram.jpg" width="100%" alt="Telegram">
+      <br>
+      <sub>Reporte en Telegram</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="Imagenes/Carpetas.jpg" width="100%" alt="Estructura">
+      <br>
+      <sub>Entorno de Trabajo</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 **Disclaimer:** Herramienta creada con fines educativos y de auditoría ética. El autor no se hace responsable del mal uso.
