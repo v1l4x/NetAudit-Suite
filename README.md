@@ -20,7 +20,7 @@ Incluye versiones optimizadas para hardware de alto rendimiento (PC) y dispositi
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/v1l4x/NetAudit-Suite.git](https://github.com/v1l4x/NetAudit-Suite.git)
+   git clone https://github.com/v1l4x/NetAudit-Suite.git
    cd NetAudit-Suite
    ```
 
