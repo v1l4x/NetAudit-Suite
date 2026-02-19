@@ -77,41 +77,65 @@ chmod +x nmaps.sh
 ```
 ---
 ### 📊 Características Destacadas
-- 🚦 Semáforo de Riesgo: Clasificación automática de vulnerabilidades (CRÍTICA, ALTA, MEDIA) basada en puntuaciones CVSS extrayendo datos del XML de Nmap.
+- 🚦 **Semáforo de Riesgo**: Clasificación automática de vulnerabilidades (CRÍTICA, ALTA, MEDIA) basada en puntuaciones CVSS extrayendo datos del XML de Nmap.
 
-- 🕵️ Evasión y Stealth: El nivel 1 utiliza DNS Spoofing (--source-port 53) y escaneo secuencial para evitar bloqueos por firewalls.
+- 🕵️ **Evasión y Stealth**: El nivel 1 utiliza DNS Spoofing (--source-port 53) y escaneo secuencial para evitar bloqueos por firewalls.
 
-- 💣 Modo Ofensivo: El nivel 3 lanza mini-exploits reales (vuln) y fuerza bruta (auth) para confirmar fallos críticos.
+- 💣 **Modo Ofensivo**: El nivel 3 lanza mini-exploits reales (vuln) y fuerza bruta (auth) para confirmar fallos críticos.
 
-- 📱 Reportes Multi-Formato: Genera listados en JSON para integraciones y reportes HTML responsive perfectos para leer desde el móvil.
+- 📱 **Reportes Multi-Formato**: Genera listados en JSON para integraciones y reportes HTML responsive perfectos para leer desde el móvil.
 
-- 🔔 Alertas en Tiempo Real: Finalizada la auditoría, tu bot de Telegram te enviará el resumen de impacto y el documento HTML adjunto.
+- 🔔 **Alertas en Tiempo Real**: Finalizada la auditoría, tu bot de Telegram te enviará el resumen de impacto y el documento HTML adjunto.
 
 ---
 
 ## 📸 Galería del Proyecto
 
+🖥️ Flujo de Trabajo en Terminal
 <table align="center">
-  <tr>
-    <td align="center" width="45%">
-      <img src="Imagenes/Resultado.jpg" width="100%" alt="Terminal">
-      <br>
-      <sub>Ejecución en Terminal</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="Imagenes/Telegram.png" width="100%" alt="Telegram">
-      <br>
-      <sub>Reporte en Telegram</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="Imagenes/Carpetas.jpg" width="100%" alt="Estructura">
-      <br>
-      <sub>Entorno de Trabajo</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+<img src="Imagenes/Interfaz.png" width="100%" alt="Selección de Interfaz">
+
+
+<sub>1. Auto-detección y Selección de Interfaz</sub>
+</td>
+<td align="center" width="50%">
+<img src="Imagenes/Modalidad.png" width="100%" alt="Selección de Modalidad">
+
+
+<sub>2. Selección de Estrategia y Riesgo</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="Imagenes/Analisis.png" width="100%" alt="Análisis en progreso">
+
+
+<sub>3. Escaneo Inteligente en Progreso</sub>
+</td>
+<td align="center" width="50%">
+<img src="Imagenes/Final.png" width="100%" alt="Resultado Final">
+
+
+<sub>4. Resumen de Riesgos Semáforo</sub>
+</td>
+</tr>
+</table>
+
+📄 Reportes Detallados y Responsive
+<table align="center">
+<tr>
+<td align="center" width="75%">
+<img src="Imagenes/Reporte.png" width="100%" alt="Reporte PC">
+
+
+<sub>Vista Responsive (vía Telegram)</sub>
+</td>
+</tr>
 </table>
 
 ---
 
 
-**Disclaimer:** Herramienta creada con fines educativos y de auditoría ética. El autor no se hace responsable del mal uso.
+**Disclaimer**: Herramienta creada con fines educativos y de auditoría ética. El autor no se hace responsable del mal uso, especialmente de los módulos ofensivos.
