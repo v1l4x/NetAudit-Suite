@@ -72,8 +72,8 @@ sudo python3 lite/audit_pi.py -i wlan0 -m 2 -n Mi_Auditoria
 Si estás en un entorno sin Python, ejecuta la versión Bash. Auto-detectará tu IP y tu rango de red automáticamente.
 ```bash
 cd legacy
-chmod +x nmaps.sh
-./nmaps.sh
+chmod +x audit_legacy.sh
+./audit_legacy.sh
 ```
 ---
 ### 📊 Características Destacadas
