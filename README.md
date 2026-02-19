@@ -18,7 +18,7 @@ Esta suite se adapta a tu hardware. Elige la herramienta según tu entorno:
 | :--- | :--- | :--- | :--- | :--- |
 | **Core Pro** | `core/audit_pro.py` | **v2.0 (Hybrid)** | Suite completa. Modos Sigiloso, Agresivo y Ofensivo. Soporte CLI y Menú. | PC / Laptop / RPi 4 |
 | **Lite IoT** | `lite/audit_pi.py` | **v2.0 (Lite)** | Optimizado para bajo consumo. Interfaz gráfica igual al Pro pero con "motor" de red ligero (Max 2 hilos). | RPi Zero / Zero 2W |
-| **Legacy** | `legacy/nmaps.sh` | **v1.0 (Bash)** | Script 100% Bash. Auto-detecta red. Sin dependencias de Python. Ideal para servidores restringidos. | Cualquier entorno Linux |
+| **Legacy** | `legacy/nmaps.sh` | **v1.5 (Bash)** | Script 100% Bash. Auto-detecta red. Sin dependencias de Python. Ideal para servidores restringidos. | Cualquier entorno Linux |
 ## 📦 Instalación
 
 1. **Clonar el repositorio:**
